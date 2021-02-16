@@ -27,10 +27,18 @@ Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 5
    + teško za procesiranje  
    + visok trošak i brige oko privatnosti
 
-
+-Grafovi stupaca (bars):  
+   1. Sandardni grafovi:  
+   -transformiranje serija podataka koji stižu u nepravilnim frekvencijama
+      + time bars (vremenski) - loša statistička svojstva i različito od stvarnog funkcioniranja  
+      + tick bars (definiriani broj transakcija) - treba biti svjestan iznimaka (*outliers*)  
+      + volume bars (količina)  
+      + dollar bars (tržišna vrijednost) - otpornije na promjene broja dionica  
+   2. Information-driven bars  
+   - cilj im je češće uzorkovanje u trenutcima kad nove informacije dolaze na tržište -> donošenje odluka prije nego cijene dosegnu novu ravnotežu   
 
 Napomene:  
    + FIX poruke (Financial Information eXchange) -protokol za trgovanje i komuniciranje informacija o prodaji/kupnji  
    + BWIC (Bid Wanted In Competition) - formalni zahtjev za ponudu na paket osiguranja, institucijonalni investitor šalje trgovcima osiguranja kako bi dobio sliku tržišta, kontaktira najviše ponuditelje da finalizira dogovor  
-   + heteroskedastičnost -pojava kada je standardna pogreška neke varijable promatrana u određenom vremenu nekonstantna (kondicionalna inekondicionalna)  
+   + heteroskedastičnost -pojava kada je standardna pogreška neke varijable promatrana u određenom vremenu nekonstantna (kondicionalna i nekondicionalna)  
    
