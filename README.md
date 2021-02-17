@@ -2,7 +2,11 @@
 66 DAYS OF DATA SCIENCE
 
 **Knjige:**
-1. [Marcos Lopez de Prado: Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)
+1. [Marcos Lopez de Prado: Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)  
+
+**Članci:**  
+1. [Information-driven bars for financial machine learning: imbalance bars](https://towardsdatascience.com/information-driven-bars-for-financial-machine-learning-imbalance-bars-dda9233058f0)  
+2. [Information-Driven Bars for Finance](https://towardsdatascience.com/information-driven-bars-for-finance-c2b1992da04d)
 
 **Dan 1** *(15. veljače 2021.)*  
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
@@ -40,5 +44,32 @@ Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 5
 Napomene:  
    + FIX poruke (Financial Information eXchange) -protokol za trgovanje i komuniciranje informacija o prodaji/kupnji  
    + BWIC (Bid Wanted In Competition) - formalni zahtjev za ponudu na paket osiguranja, institucijonalni investitor šalje trgovcima osiguranja kako bi dobio sliku tržišta, kontaktira najviše ponuditelje da finalizira dogovor  
-   + heteroskedastičnost -pojava kada je standardna pogreška neke varijable promatrana u određenom vremenu nekonstantna (kondicionalna i nekondicionalna)  
+   + heteroskedastičnost -pojava kada je standardna pogreška neke varijable promatrana u određenom vremenu nekonstantna (kondicionalna i nekondicionalna) 
+
+**Dan 3** *(17. veljače 2021.)*  
+članak: Information-driven bars for financial machine learning: imbalance bars (1)
+članak: Information-Driven Bars for Finance (2)
+"Advances in Financial Machine Learning" poglavlje 2:
+
+-Information driven bars:  
+   + Tick imbalance bars 
+     - lista tickova (-1, 0, 1)  
+     - 
+   + Volume/Dollar bars  
+   + Ticks Runs Bars  
+   + Volume/Dollar runs bars  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
