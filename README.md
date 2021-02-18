@@ -76,16 +76,29 @@ Ključni tipovi podataka:
       + diskretni  
    + kategorički  
       + binarni
-      + ordinalni
+      + ordinalni  
+
 Mjere položaja:  
    + prosjek (*mean*, *average*)  
    + težinski prosjek (*weighted mead*, *weighted average*) - suma svih vrijednosti pomnoženih sa težinom kroz zbroj težina  
    + medijan (*median*, *50th percentile*)  
    + percentil (*percentile*) - P posto podataka je ispod te vrijednsti  
-   + težinski medijan (weighted median) - polovina zbroja težina se nalazi iznad i ispod  
-   + podrezani*?* prosjek (trimmed mean, truncated mean) - prosjek nakon izbacivanja određenog broja ekstremnih vrijednost  
-   + robustan (robust, resistant) - neosjetljiv na ekstremne vrijednosti  
-   + iznimka (outlier, extreme) vrijednost podatka koja se bitno razlikuje od ostalih vrijednosti  
+   + težinski medijan (*weighted median*) - polovina zbroja težina se nalazi iznad i ispod  
+   + podrezani*?* prosjek (*trimmed mean*, *truncated mean*) - prosjek nakon izbacivanja određenog broja ekstremnih vrijednost  
+   + robustan (*robust*, *resistant*) - neosjetljiv na ekstremne vrijednosti  
+   + iznimka (*outlier*, *extreme*) vrijednost podatka koja se bitno razlikuje od ostalih vrijednosti  
+
+Mjere varijabilnosti:  
+   + devijacija (*deviation*, *error*, *residual*)- razlika izmeđe procjenjenih i promatranih vrijednosti  
+   + varijanca (*variance*, *mean-squared-error*) - prosječna suma kvadrata odstupanja vrijednosti obilježja (veličine) od aritmetičke sredine  
+   + standarna devijacija (*standard deviation*) - kvadratni korjen varijance  
+   + srednja apsolutna devijacija (*mean absolute deviation*, *L1 norm*, *Manhattan norm*) - prosjek odstupanja vrijednosti od prosjeka  
+   + medijan absolutne devijacije od medijana (*median absolute deviation from the median*)  
+   + raspon (*range*) - razlika najveće i najmanje vrijednosti u datasetu  
+   + statistike redosljeda (*order statistics*, *ranks*) - metrike bazirane na vrijednostima podataka poredanim od najmanje do najveće  
+   + interkvartil (*interquartile range*, *IQR*) - razlika između 75. i 25 interkvartila  
+
+
 
 
 
