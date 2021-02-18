@@ -1,7 +1,8 @@
 # 66 DAYS OF DATA SCIENCE
 
 ## **Knjige:**
-1. [Marcos Lopez de Prado: Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)  
+1. [Marcos Lopez de Prado: Advances in Financial Machine Learning, 2018](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos/dp/1119482089)  
+2. [Peter Bruce, Andrew Bruce and Peter Gedeck: Pratical statistics for data scientists, 2020](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)
 
 ## **Članci:**  
 1. [Information-driven bars for financial machine learning: imbalance bars](https://towardsdatascience.com/information-driven-bars-for-financial-machine-learning-imbalance-bars-dda9233058f0)  
@@ -11,7 +12,7 @@
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
 
 ## **Dan 2** *(16. veljače 2021.)*  
-"Advances in Financial Machine Learning" poglavlje 2:  
+*"Advances in Financial Machine Learning" poglavlje 2:*  
 -Esencijalni tipovi financijskih podataka:  
 1. Fundamentalni podatci  
    + poslovna analitika, većinom podatci računovodstva  
@@ -46,9 +47,9 @@ Napomene:
    + heteroskedastičnost -pojava kada je standardna pogreška neke varijable promatrana u određenom vremenu nekonstantna (kondicionalna i nekondicionalna) 
 
 ## **Dan 3** *(17. veljače 2021.)*  
-članak: Information-driven bars for financial machine learning: imbalance bars (1)
-članak: Information-Driven Bars for Finance (2)
-"Advances in Financial Machine Learning" poglavlje 2:
+*članak: Information-driven bars for financial machine learning: imbalance bars (1)  
+članak: Information-Driven Bars for Finance (2)  
+"Advances in Financial Machine Learning" poglavlje 2:*
 
 Information driven bars:  
    + Tick imbalance bars 
@@ -67,7 +68,24 @@ Information driven bars:
 Napomene:  
    + EWMA (Exponentially Weighted Moving Average) - EWMA(t) = a * x(t) + (1-a) * EWMA(t-1), svi prethodni rezultati utječu na rezultat, što su dalji imaju manji utjecaj  
    
-
+## **Dan 4** *(18. veljače 2021.)*
+*"Pratical statistics for data scientists" poglavlje 1*  
+Ključni tipovi podataka:  
+   + brojčani  
+      + kontinuirani  
+      + diskretni  
+   + kategorički  
+      + binarni
+      + ordinalni
+Mjere položaja:  
+   + prosjek (*mean*, *average*)  
+   + težinski prosjek (*weighted mead*, *weighted average*) - suma svih vrijednosti pomnoženih sa težinom kroz zbroj težina  
+   + medijan (*median*, *50th percentile*)  
+   + percentil (*percentile*) - P posto podataka je ispod te vrijednsti  
+   + težinski medijan (weighted median) - polovina zbroja težina se nalazi iznad i ispod  
+   + podrezani*?* prosjek (trimmed mean, truncated mean) - prosjek nakon izbacivanja određenog broja ekstremnih vrijednost  
+   + robustan (robust, resistant) - neosjetljiv na ekstremne vrijednosti  
+   + iznimka (outlier, extreme) vrijednost podatka koja se bitno razlikuje od ostalih vrijednosti  
 
 
 
