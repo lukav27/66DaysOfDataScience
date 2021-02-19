@@ -6,7 +6,11 @@
 
 ## **Članci:**  
 1. [Information-driven bars for financial machine learning: imbalance bars](https://towardsdatascience.com/information-driven-bars-for-financial-machine-learning-imbalance-bars-dda9233058f0)  
-2. [Information-Driven Bars for Finance](https://towardsdatascience.com/information-driven-bars-for-finance-c2b1992da04d)
+2. [Information-Driven Bars for Finance](https://towardsdatascience.com/information-driven-bars-for-finance-c2b1992da04d)  
+
+## **Stranice:**  
+1. [Konstruiranje boxplota](https://www.oswego.edu/~srp/stats/bp_con.htm)  
+2. [Kernel density estimation](https://mathisonian.github.io/kde/)  
 
 ## **Dan 1** *(15. veljače 2021.)*  
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
@@ -70,7 +74,8 @@ Napomene:
    
 ## **Dan 4** *(18. veljače 2021.)*
 *"Pratical statistics for data scientists" poglavlje 1*  
-Ključni tipovi podataka:  
+
+Tipovi podataka:  
    + brojčani  
       + kontinuirani  
       + diskretni  
@@ -98,9 +103,22 @@ Mjere varijabilnosti:
    + statistike redosljeda (*order statistics*, *ranks*) - metrike bazirane na vrijednostima podataka poredanim od najmanje do najveće  
    + interkvartil (*interquartile range*, *IQR*) - razlika između 75. i 25 interkvartila  
 
+## **Dan 5** *(19. veljače 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 1*   
+*[Konstruiranje boxplota](https://www.oswego.edu/~srp/stats/bp_con.htm)*  
+*[Kernel density estimation](https://mathisonian.github.io/kde/)*  
 
+Istraživanje distirbucije podataka:  
+   + boxplot (*box and whiskers plot*)  
+   + tablica frekvencija (*frequency table*)  
+   + histogram
+   + graf gustoće (*density plot*)
 
-
+Istraživanje kategoričkih podataka:  
+   + mod (mode)  
+   + očekivana vrijednost (expected value) - izračunava se kad kategorije mogu biti povezane s numeričkom vrijednošću, prosiječna vrijednost bazirana na vjerojatnosti pojavljivanja neke kategorije (težinski prosijek)  
+   + stupčasti grafikoni (bar chart)  
+   + pita grafioni (pie chart)  
 
 
 
