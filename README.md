@@ -10,7 +10,8 @@
 
 ## **Stranice:**  
 1. [Konstruiranje boxplota](https://www.oswego.edu/~srp/stats/bp_con.htm)  
-2. [Kernel density estimation](https://mathisonian.github.io/kde/)  
+2. [Kernel density estimation](https://mathisonian.github.io/kde/) 
+3. [Zavaravajući grafovi](https://en.wikipedia.org/wiki/Misleading_graph)   
 
 ## **Dan 1** *(15. veljače 2021.)*  
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
@@ -120,8 +121,14 @@ Istraživanje kategoričkih podataka:
    + stupčasti grafikoni (bar chart)  
    + pita grafioni (pie chart)  
 
+## **Dan 6** *(20. veljače 2021.)*   
+[zavaravajući grafovi](https://en.wikipedia.org/wiki/Misleading_graph)  
 
-
+## **Dan 7** *(21. veljače 2021.)*   
+Korelacija:  
+   + koeficijent korelacije (correlation coefficient) - mjeri povezanost između numeričkih varijabli  
+   + matrica korelacija (correlation matrix) - tablica u kojoj su varijable i retci i stupci a ćelije su korelacije među varijablama  
+   + dijagrem raspršenosti (scatterplot) - svaka os predstavlja vrijednosti jedne varijable  
 
 
 
