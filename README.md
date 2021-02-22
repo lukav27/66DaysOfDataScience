@@ -44,7 +44,7 @@ Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 5
       + volume bars (količina)  
       + dollar bars (tržišna vrijednost) - otpornije na promjene broja dionica  
    2. Information-driven bars  
-   cilj im je češće uzorkovanje u trenutcima kad nove informacije dolaze na tržište -> donošenje odluka prije nego cijene dosegnu novu ravnotežu   
+   -cilj im je češće uzorkovanje u trenutcima kad nove informacije dolaze na tržište -> donošenje odluka prije nego cijene dosegnu novu ravnotežu   
 
 Napomene:  
    + FIX poruke (Financial Information eXchange) -protokol za trgovanje i komuniciranje informacija o prodaji/kupnji  
