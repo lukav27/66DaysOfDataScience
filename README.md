@@ -128,7 +128,10 @@ Istraživanje kategoričkih podataka:
 Korelacija:  
    + koeficijent korelacije (correlation coefficient) - mjeri povezanost između numeričkih varijabli  
    + matrica korelacija (correlation matrix) - tablica u kojoj su varijable i retci i stupci a ćelije su korelacije među varijablama  
-   + dijagrem raspršenosti (scatterplot) - svaka os predstavlja vrijednosti jedne varijable  
+   + dijagram raspršenosti (scatterplot) - svaka os predstavlja vrijednosti jedne varijable  
+
+## **Dan 8** *(22. veljače 2021.)*  
+ponavljanje  
 
 
 
