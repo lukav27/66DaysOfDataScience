@@ -126,7 +126,8 @@ Istraživanje kategoričkih podataka:
 
 ## **Dan 7** *(21. veljače 2021.)*   
 Korelacija:  
-   + koeficijent korelacije (*correlation coefficient*) - mjeri povezanost između numeričkih varijabli  
+   + koeficijent korelacije (*correlation coefficient*) - mjera povezanost između numeričkih varijabli 
+     ![pearson-correlation-coefficient-formula](https://user-images.githubusercontent.com/59167006/108747621-ecba0180-753d-11eb-83ed-bd3741ecf133.png)
    + matrica korelacija (*correlation matrix*) - tablica u kojoj su varijable i retci i stupci a ćelije su korelacije među varijablama  
    + dijagram raspršenosti (*scatterplot*) - svaka os predstavlja vrijednosti jedne varijable  
 
