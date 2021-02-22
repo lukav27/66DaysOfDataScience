@@ -90,7 +90,7 @@ Mjere položaja:
    + medijan (*median*, *50th percentile*)  
    + percentil (*percentile*) - P posto podataka je ispod te vrijednsti  
    + težinski medijan (*weighted median*) - polovina zbroja težina se nalazi iznad i ispod  
-   + podrezani*?* prosjek (*trimmed mean*, *truncated mean*) - prosjek nakon izbacivanja određenog broja ekstremnih vrijednost  
+   + podrezani *?* prosjek (*trimmed mean*, *truncated mean*) - prosjek nakon izbacivanja određenog broja ekstremnih vrijednost  
    + robustan (*robust*, *resistant*) - neosjetljiv na ekstremne vrijednosti  
    + iznimka (*outlier*, *extreme*) vrijednost podatka koja se bitno razlikuje od ostalih vrijednosti  
 
