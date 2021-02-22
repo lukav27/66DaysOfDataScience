@@ -116,19 +116,19 @@ Istraživanje distirbucije podataka:
    + graf gustoće (*density plot*)
 
 Istraživanje kategoričkih podataka:  
-   + mod (mode)  
-   + očekivana vrijednost (expected value) - izračunava se kad kategorije mogu biti povezane s numeričkom vrijednošću, prosiječna vrijednost bazirana na vjerojatnosti pojavljivanja neke kategorije (težinski prosijek)  
-   + stupčasti grafikoni (bar chart)  
-   + pita grafioni (pie chart)  
+   + mod (*mode*)  
+   + očekivana vrijednost (*expected value*) - izračunava se kad kategorije mogu biti povezane s numeričkom vrijednošću, prosiječna vrijednost bazirana na vjerojatnosti pojavljivanja neke kategorije (*težinski prosijek*)  
+   + stupčasti grafikoni (*bar chart*)  
+   + pita grafioni (*pie chart*)  
 
 ## **Dan 6** *(20. veljače 2021.)*   
 [zavaravajući grafovi](https://en.wikipedia.org/wiki/Misleading_graph)  
 
 ## **Dan 7** *(21. veljače 2021.)*   
 Korelacija:  
-   + koeficijent korelacije (correlation coefficient) - mjeri povezanost između numeričkih varijabli  
-   + matrica korelacija (correlation matrix) - tablica u kojoj su varijable i retci i stupci a ćelije su korelacije među varijablama  
-   + dijagram raspršenosti (scatterplot) - svaka os predstavlja vrijednosti jedne varijable  
+   + koeficijent korelacije (*correlation coefficient*) - mjeri povezanost između numeričkih varijabli  
+   + matrica korelacija (*correlation matrix*) - tablica u kojoj su varijable i retci i stupci a ćelije su korelacije među varijablama  
+   + dijagram raspršenosti (*scatterplot*) - svaka os predstavlja vrijednosti jedne varijable  
 
 ## **Dan 8** *(22. veljače 2021.)*  
 ponavljanje  
