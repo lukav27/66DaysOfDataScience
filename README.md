@@ -124,7 +124,8 @@ Istraživanje kategoričkih podataka:
 ## **Dan 6** *(20. veljače 2021.)*   
 [zavaravajući grafovi](https://en.wikipedia.org/wiki/Misleading_graph)  
 
-## **Dan 7** *(21. veljače 2021.)*   
+## **Dan 7** *(21. veljače 2021.)*
+*"Pratical statistics for data scientists" poglavlje 1*
 Korelacija:  
    + koeficijent korelacije (*correlation coefficient*) - mjera povezanost između numeričkih varijabli 
      ![pearson-correlation-coefficient-formula](https://user-images.githubusercontent.com/59167006/108747621-ecba0180-753d-11eb-83ed-bd3741ecf133.png)
@@ -133,6 +134,25 @@ Korelacija:
 
 ## **Dan 8** *(22. veljače 2021.)*  
 ponavljanje  
+
+## **Dan 9** *(23. veljače 2021.)*
+*"Pratical statistics for data scientists" poglavlja 1 i 2*
+Istraživanje dvije ili više varijabli:  
+   + kontigencijska talica (*contingency table*) - zbroj slučajeva dvije ili više kategoričkih varijabli  
+   + heksagonalno svrstavanje (*hexagonal binning*) - graf dvije numeričke varijable sa zapisima svrstanim u heksagone  
+   + dijagram kontura (*contour plot*) - graf koji pokazuje gustoću dvije muneričke varijable u obliku topografske mape  
+   + *violin plot* - sličan boxplotu ali prikazuje procjenu gustoće  
+
+**Podatci i distribucije uzorkovanja**  
+slučajno uzorkovanje (*random sampling*) - proces u kojem svaki član populacije ima jendaku šansu biti izabran svaki krug -> jednostavan slučajni uzorak  
+   + uzorak je podset podataka iz većeg seta podataka (u statistici populacija)  
+   + N (n) - veličina populacije  
+   + nadomještavanje (*replacment*) -  kad se neka stavka izabere ne izbacuje se iz populacije -> može biti ponovno odabrana  
+   + stratificirano uzorkovanje (*stratified sampling*) - djeljenje podataka na particije nakon čega se slučajno uzorkuje iz svake particije  
+   + particija (*stratum*, *strata*) - homogena podgrupa populacije sa zajedničkim karakteristikama  
+   + pristranost (*bias*) - sistematska pogreška
+   + pristrani uzorak (*sample bias*) - uzorak koji pogrešno predstavlje populaciju  
+
 
 
 
