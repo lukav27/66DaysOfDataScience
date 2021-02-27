@@ -11,7 +11,14 @@
 ## **Stranice:**  
 1. [Konstruiranje boxplota](https://www.oswego.edu/~srp/stats/bp_con.htm)  
 2. [Kernel density estimation](https://mathisonian.github.io/kde/) 
-3. [Zavaravajući grafovi](https://en.wikipedia.org/wiki/Misleading_graph)   
+3. [Zavaravajući grafovi](https://en.wikipedia.org/wiki/Misleading_graph)  
+4. [Kaggle: Use Cases for Model Insight](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)  
+5. [Kaggle: Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance)  
+6. [Kaggle: Permutation Importance (exercise)](https://www.kaggle.com/lukavaljin/exercise-permutation-importance)  
+7. [Kaggle: Partial Plots](https://www.kaggle.com/dansbecker/partial-plots)  
+8. [Kaggle: Partial Plots (exercise)](https://www.kaggle.com/lukavaljin/exercise-partial-plots)  
+9. [Kaggle: SHAP Values](https://www.kaggle.com/dansbecker/shap-values)  
+10. [Kaggle: SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-shap-values)  
 
 ## **Dan 1** *(15. veljače 2021.)*  
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
