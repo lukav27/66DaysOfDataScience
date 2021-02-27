@@ -153,9 +153,22 @@ slučajno uzorkovanje (*random sampling*) - proces u kojem svaki član populacij
    + pristranost (*bias*) - sistematska pogreška
    + pristrani uzorak (*sample bias*) - uzorak koji pogrešno predstavlje populaciju  
 
+## **Dan 10** *(24. veljače 2021.)*  
+Kaggle course "Machine Learning Explainability"  
+[Kaggle: Use Cases for Model Insight](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)
 
+## **Dan 11** *(25. veljače 2021.)*  
+Kaggle course "Machine Learning Explainability"  
+[Kaggle: Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance)  
+[Kaggle: Permutation Importance (exercise)](https://www.kaggle.com/lukavaljin/exercise-permutation-importance)
 
+## **Dan 12** *(26. veljače 2021.)*  
+Kaggle course "Machine Learning Explainability"  
+[Kaggle: Partial Plots](https://www.kaggle.com/dansbecker/partial-plots)  
+[Kaggle: Partial Plots (exercise)](https://www.kaggle.com/lukavaljin/exercise-partial-plots)  
 
-
-
+## **Dan 13** *(27. veljače 2021.)*  
+Kaggle course "Machine Learning Explainability"  
+[Kaggle: SHAP Values](https://www.kaggle.com/dansbecker/shap-values)  
+[Kaggle: SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-shap-values)  
    
