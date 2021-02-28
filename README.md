@@ -18,7 +18,9 @@
 7. [Kaggle: Partial Plots](https://www.kaggle.com/dansbecker/partial-plots)  
 8. [Kaggle: Partial Plots (exercise)](https://www.kaggle.com/lukavaljin/exercise-partial-plots)  
 9. [Kaggle: SHAP Values](https://www.kaggle.com/dansbecker/shap-values)  
-10. [Kaggle: SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-shap-values)  
+10. [Kaggle: SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-shap-values) 
+11. [Kaggle: Advanced Uses of SHAP Valuess](https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values)  
+12. [Kaggle: Advanced Uses of SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-advanced-uses-of-shap-values)   
 
 ## **Dan 1** *(15. veljače 2021.)*  
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
@@ -178,4 +180,9 @@ Kaggle course "Machine Learning Explainability"
 Kaggle course "Machine Learning Explainability"  
 [Kaggle: SHAP Values](https://www.kaggle.com/dansbecker/shap-values)  
 [Kaggle: SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-shap-values)  
+
+## **Dan 14** *(28. veljače 2021.)*  
+Kaggle course "Machine Learning Explainability"  
+[Kaggle: Advanced Uses of SHAP Valuess](https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values)  
+[Kaggle: Advanced Uses of SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-advanced-uses-of-shap-values)  
    
