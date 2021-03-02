@@ -7,6 +7,7 @@
 ## **Članci:**  
 1. [Information-driven bars for financial machine learning: imbalance bars](https://towardsdatascience.com/information-driven-bars-for-financial-machine-learning-imbalance-bars-dda9233058f0)  
 2. [Information-Driven Bars for Finance](https://towardsdatascience.com/information-driven-bars-for-finance-c2b1992da04d)  
+3. [Christopher J. Pannucci and Edwin G. Wilkins: Identifying and Avoiding Bias in Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/)  
 
 ## **Stranice:**  
 1. [Konstruiranje boxplota](https://www.oswego.edu/~srp/stats/bp_con.htm)  
@@ -186,3 +187,13 @@ Kaggle course "Machine Learning Explainability"
 [Kaggle: Advanced Uses of SHAP Valuess](https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values)  
 [Kaggle: Advanced Uses of SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-advanced-uses-of-shap-values)  
    
+## **Dan 15** *(1. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
++ pristranosti odabira (selection bias) - pristranost koja je rezultat načina na koji se biraju opažanja  
++ njuškanje po podatcima (data snooping) - opsežna pretraga po podatcima u potrazi za nečim zanimljivim  
++ efekt golemog pretraživanja (vast search efect) - pristranost ili nereproduktivnost kao rezultat višestrukog modeliranja podataka ili podataka s velikim brojem prediktora   
++ regresija na srednju vrijednost (regression to the mean) - fenomen varijabli da ekstremne vrijednosti nastoje pratiti centralne vrijednosti  
+
+## **Dan 16** *(2. ožujka 2021.)*
+[Christopher J. Pannucci and Edwin G. Wilkins: Identifying and Avoiding Bias in Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/)  
+
