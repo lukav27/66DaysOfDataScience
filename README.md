@@ -21,7 +21,8 @@
 9. [Kaggle: SHAP Values](https://www.kaggle.com/dansbecker/shap-values)  
 10. [Kaggle: SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-shap-values) 
 11. [Kaggle: Advanced Uses of SHAP Valuess](https://www.kaggle.com/dansbecker/advanced-uses-of-shap-values)  
-12. [Kaggle: Advanced Uses of SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-advanced-uses-of-shap-values)   
+12. [Kaggle: Advanced Uses of SHAP Values (exercise)](https://www.kaggle.com/lukavaljin/exercise-advanced-uses-of-shap-values)  
+13. [simulacija distribucije frekvencije](https://onlinestatbook.com/stat_sim/sampling_dist/)   
 
 ## **Dan 1** *(15. veljače 2021.)*  
 Pročitao prvo poglavlje knjige "Advances in Financial Machine Learning" (str. 50/393)
@@ -189,11 +190,18 @@ Kaggle course "Machine Learning Explainability"
    
 ## **Dan 15** *(1. ožujka 2021.)*  
 *"Pratical statistics for data scientists" poglavlje 2"*  
-+ pristranosti odabira (selection bias) - pristranost koja je rezultat načina na koji se biraju opažanja  
-+ njuškanje po podatcima (data snooping) - opsežna pretraga po podatcima u potrazi za nečim zanimljivim  
-+ efekt golemog pretraživanja (vast search efect) - pristranost ili nereproduktivnost kao rezultat višestrukog modeliranja podataka ili podataka s velikim brojem prediktora   
-+ regresija na srednju vrijednost (regression to the mean) - fenomen varijabli da ekstremne vrijednosti nastoje pratiti centralne vrijednosti  
++ pristranosti odabira (*selection bias*) - pristranost koja je rezultat načina na koji se biraju opažanja  
++ njuškanje po podatcima (*data snooping*) - opsežna pretraga po podatcima u potrazi za nečim zanimljivim  
++ efekt golemog pretraživanja (*vast search efect*) - pristranost ili nereproduktivnost kao rezultat višestrukog modeliranja podataka ili podataka s velikim brojem prediktora   
++ regresija na srednju vrijednost (*regression to the mean*) - fenomen varijabli da ekstremne vrijednosti nastoje pratiti centralne vrijednosti  
 
 ## **Dan 16** *(2. ožujka 2021.)*
 [Christopher J. Pannucci and Edwin G. Wilkins: Identifying and Avoiding Bias in Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/)  
 
+## **Dan 17** *(3. ožujka 2021.)*
+Distribucija uzoraka (*sammpling distribution*) - distribucija neke statistike uzoraka dobivene iz više uzoraka koji se odnose na istu populaciju  
+  + statistika uzoraka (*sample statistic*) - metrike izračunate iz uzoraka  
+  + distribucija podataka (*data distribution*) - učestalost distribucije pojedinih vrijednosti u u skupu podataka  
+  + teorem centralnog limita (*central limit theorem*) - tendencija distribucije uzoraka da zauzima normalan oblik porastom veličine uzorka    
+  + standardna pogreška (*standard error*, *square root of n rule*) - varijabilnost statistike uzoraka s obzirom na veći broj uzoraka (ne miješati sa standardnom devijacijom!)  
+[simulacija distribucije frekvencije](https://onlinestatbook.com/stat_sim/sampling_dist/)  
