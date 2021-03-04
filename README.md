@@ -199,9 +199,29 @@ Kaggle course "Machine Learning Explainability"
 [Christopher J. Pannucci and Edwin G. Wilkins: Identifying and Avoiding Bias in Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2917255/)  
 
 ## **Dan 17** *(3. ožujka 2021.)*
+*"Pratical statistics for data scientists" poglavlje 2"*
 Distribucija uzoraka (*sammpling distribution*) - distribucija neke statistike uzoraka dobivene iz više uzoraka koji se odnose na istu populaciju  
   + statistika uzoraka (*sample statistic*) - metrike izračunate iz uzoraka  
   + distribucija podataka (*data distribution*) - učestalost distribucije pojedinih vrijednosti u u skupu podataka  
   + teorem centralnog limita (*central limit theorem*) - tendencija distribucije uzoraka da zauzima normalan oblik porastom veličine uzorka    
   + standardna pogreška (*standard error*, *square root of n rule*) - varijabilnost statistike uzoraka s obzirom na veći broj uzoraka (ne miješati sa standardnom devijacijom!)  
 [simulacija distribucije frekvencije](https://onlinestatbook.com/stat_sim/sampling_dist/)  
+
+## **Dan 18** *(4. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
++ bootstrap uzorak (*bootstrap sample*) - uzorak uzet s nadomještavanjem iz promatranog skupa podataka  
++ ponovljeno uzorkovanje (*resampling*) - proces uzimanja ponovljenih uzoraka iz promatranog skupa podataka, uključuje bootstrap i permutaciju  
+
+Algoritam za bootstrap:  
+1. izvlačimo vrijednost iz uzorka, zabilježimo je i nadomjestimo  
+2. ponovimo to *n* puta  
+3. zabilježimo prosijek *n* zabilježenih vrijednosti  
+4. ponovimo korake od 1 do 3 *R* puta  
+5. koristimo *R* rezultata da bi:  
+   + izračunali standardnu devijaciju - procijenjuje srednju standardnu pogrešku uzorka  
+   + izradili histogram ili boxplot  
+   + pronašli interval pouzdanosti  
+
+Nappomene:
++ Permutacija - zadani poredak elemenata nekog skupa  
++ Interval pouzdanosti - raspon mogućih vrijednosti unutar kojega s izvjesnom vjerojatnošču nalazi ta statistička mjera populacije  
