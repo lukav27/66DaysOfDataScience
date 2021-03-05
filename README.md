@@ -224,4 +224,12 @@ Algoritam za bootstrap:
 
 Nappomene:
 + Permutacija - zadani poredak elemenata nekog skupa  
-+ Interval pouzdanosti - raspon mogućih vrijednosti unutar kojega s izvjesnom vjerojatnošču nalazi ta statistička mjera populacije  
+
+## **Dan 19** *(5. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
++ interval pouzdanosti (*confidence interval*) - raspon mogućih vrijednosti unutar kojega s izvjesnom vjerojatnošču nalazi ta statistička mjera populacije  
++ krajnje točke intervala (*interval endpoints*) - vrh i dno intervala pouzdanosti  
+
+interval pouzdanosti računamo nakon bootstrapa tako da za x% željene pouzdanosti odredimo ((100-x)/2)% od R rezultata uzorkovanja sa svakog kraja distribucije kao točke podrezivanja
+
+
