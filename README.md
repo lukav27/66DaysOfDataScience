@@ -240,4 +240,7 @@ Normalna distribucija (Gaussova distribucija):
 + z-score - rezultat standardizacije jedne točke podatka  
 + standardna normalna distribucija (standard normal) - normalna distribucija sa prosjekom 0 i standardnom devijacijom 1  
 + QQ-graf (QQ-Plot) - graf za vizualizaciju blizine distribucije uzorka i neke druge specifične distribucije  
+![QQ plot](https://user-images.githubusercontent.com/59167006/110206357-72fb0f80-7e7d-11eb-8902-a531e9aea7d7.png)   
 
+Napomena:  
+Normalizacija (normalizacija) ne stvara normalno distribuirane podatke, samo ih stavlja na istu ljestvicu kao i standardnu normalnu distribuciju  
