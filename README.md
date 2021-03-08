@@ -162,7 +162,7 @@ slučajno uzorkovanje (*random sampling*) - proces u kojem svaki član populacij
    + stratificirano uzorkovanje (*stratified sampling*) - djeljenje podataka na particije nakon čega se slučajno uzorkuje iz svake particije  
    + particija (*stratum*, *strata*) - homogena podgrupa populacije sa zajedničkim karakteristikama  
    + pristranost (*bias*) - sistematska pogreška
-   + pristrani uzorak (*sample bias*) - uzorak koji pogrešno predstavlje populaciju  
+   + pristrani uzorak (*sample bias*) - uzorak koji pogrešno predstavlja populaciju  
 
 ## **Dan 10** *(24. veljače 2021.)*  
 Kaggle course "Machine Learning Explainability"  
