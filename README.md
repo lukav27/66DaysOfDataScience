@@ -244,3 +244,12 @@ Normalna distribucija (Gaussova distribucija):
 
 Napomena:  
 Normalizacija (normalizacija) ne stvara normalno distribuirane podatke, samo ih stavlja na istu ljestvicu kao i standardnu normalnu distribuciju  
+
+## **Dan 21** *(7. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
+Asimetrične distribucije  
++ rep - duži i tanji kraj distribucije u kojem se relativno ekstremne vrijednosti pojavljuju u niskoj frekvenciji  
++ pomak - strana distribucije na kojoj je duži rep  
+
+## **Dan 22** *(8. ožujka 2021.)*  
+ponavljanje  
