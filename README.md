@@ -234,12 +234,12 @@ interval pouzdanosti računamo nakon bootstrapa tako da za x% željene pouzdanos
 
 ## **Dan 20** *(6. ožujka 2021.)*  
 *"Pratical statistics for data scientists" poglavlje 2"*  
-Normalna distribucija (Gaussova distribucija):  
+Normalna distribucija (*Gaussova distribucija*):  
 ![normalna distribucija](https://user-images.githubusercontent.com/59167006/110205045-9ec6c700-7e76-11eb-8692-1ae2a537ccec.png)  
-+ standardizacija (standardization) - proces oduzimanja prosjeka i podjele sa standardnom devijacijom  
++ standardizacija (*standardization*) - proces oduzimanja prosjeka i podjele sa standardnom devijacijom  
 + z-score - rezultat standardizacije jedne točke podatka  
-+ standardna normalna distribucija (standard normal) - normalna distribucija sa prosjekom 0 i standardnom devijacijom 1  
-+ QQ-graf (QQ-Plot) - graf za vizualizaciju blizine distribucije uzorka i neke druge specifične distribucije  
++ standardna normalna distribucija (*standard normal*) - normalna distribucija sa prosjekom 0 i standardnom devijacijom 1  
++ QQ-graf (*QQ-Plot*) - graf za vizualizaciju blizine distribucije uzorka i neke druge specifične distribucije  
 ![QQ plot](https://user-images.githubusercontent.com/59167006/110206357-72fb0f80-7e7d-11eb-8902-a531e9aea7d7.png)   
 
 Napomena:  
@@ -253,3 +253,9 @@ Asimetrične distribucije
 
 ## **Dan 22** *(8. ožujka 2021.)*  
 ponavljanje  
+
+## **Dan 23** *(9. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*   
+Studentova t-distribucija  
+-obitelj distribucija koje liče na na+ormalnu distribuciju ali imaju deblje repove  
+
