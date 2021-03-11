@@ -259,3 +259,24 @@ ponavljanje
 Studentova t-distribucija  
 -obitelj distribucija koje liče na na+ormalnu distribuciju ali imaju deblje repove  
 
+## **Dan 24** *(10. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
+Binomna distribucija
++ pokus (*trial*) - događaj s dikretnim ishodom  
++ uspjeh (*success*) - ishod od interesa (1)  
++ binomna (*binomial*) - koja ima dva ishoda  
++ binomni pokus/Bernoullijev pokus (*binomial trial*) - svaki pokus koji ima dva moguća ishoda 
++ binomna distribucija/Bernulijeva (*binomial distribution*) - distribucija učestalosti uspjeha (x) u n pokušaja  
+
+Napomene:
+diskretna varijabla - varijabla koja može poprimiti konačan ili prebrojiv broj vrijednosti  
+
+## **Dan 25** *(10. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
+Hi-kvadrat distribucija  
++ dobivena Hi-kvadrat testom  
++ gleda broj instanci koji pripadaju svakoj kategoriji  
++ mjeri opseg odstupanja od onog očekivanog null modela
+
+Napomrna:  
+očekivanje (*expectation*) - ništa čudno u podatcima  
