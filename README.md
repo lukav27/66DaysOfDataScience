@@ -271,12 +271,17 @@ Binomna distribucija
 Napomene:
 diskretna varijabla - varijabla koja može poprimiti konačan ili prebrojiv broj vrijednosti  
 
-## **Dan 25** *(10. ožujka 2021.)*  
+## **Dan 25** *(11. ožujka 2021.)*  
 *"Pratical statistics for data scientists" poglavlje 2"*  
 Hi-kvadrat distribucija  
 + dobivena Hi-kvadrat testom  
 + gleda broj instanci koji pripadaju svakoj kategoriji  
 + mjeri opseg odstupanja od onog očekivanog null modela
 
-Napomrna:  
+Napomena:  
 očekivanje (*expectation*) - ništa čudno u podatcima  
+
+## **Dan 26** *(12. ožujka 2021.)*  
+*"Pratical statistics for data scientists" poglavlje 2"*  
+F-distribucija (*F distribution*)  
+Koristi se za određivanje razlikuje li pronađeni uzorak značajno od nikakvog uzorka
